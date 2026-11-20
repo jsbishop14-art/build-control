@@ -15,3 +15,4 @@
 {"at": "2026-11-20T00:53:25-05:00", "repo": "popcorn-pilot", "build": "PP3", "tokens": 521897, "cache_read_tokens": 26957278, "cost_usd_equiv": 11.6546876, "minutes": 54}
 {"at": "2026-11-20T02:06:54-05:00", "repo": "popcorn-pilot", "build": "PP4", "tokens": 646383, "cache_read_tokens": 52242338, "cost_usd_equiv": 18.222951600000016, "minutes": 73}
 {"at": "2026-11-20T02:56:27-05:00", "repo": "popcorn-pilot", "build": "PP5", "tokens": 530419, "cache_read_tokens": 30146769, "cost_usd_equiv": 12.268121799999994, "minutes": 49}
+{"at": "2026-11-20T03:57:37-05:00", "repo": "popcorn-pilot", "build": "PP6", "tokens": 702488, "cache_read_tokens": 61322276, "cost_usd_equiv": 20.787783200000007, "minutes": 61}
