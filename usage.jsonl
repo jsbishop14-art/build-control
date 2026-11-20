@@ -10,3 +10,4 @@
 {"at": "2026-11-19T03:29:46-05:00", "repo": "command-center", "build": "CC10", "tokens": 498951, "cache_read_tokens": 20638984, "cost_usd_equiv": 17.188374999999994, "minutes": 38}
 {"at": "2026-11-19T08:31:33-05:00", "repo": "command-center", "build": "CC11", "tokens": 619250, "cache_read_tokens": 35699665, "cost_usd_equiv": 26.6375195, "minutes": 45}
 {"at": "2026-11-19T18:01:48-05:00", "repo": "command-center", "build": "CC12", "tokens": 391024, "cache_read_tokens": 19335008, "cost_usd_equiv": 14.780944000000002, "minutes": 24}
+{"at": "2026-11-19T23:26:01-05:00", "repo": "popcorn-pilot", "build": "PP1", "tokens": 10475, "cache_read_tokens": 2161021, "cost_usd_equiv": 8.202101200000001, "minutes": 1}
